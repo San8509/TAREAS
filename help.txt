@@ -1,0 +1,27 @@
+
+*LINK PARA AGREGAR ICONOS DESDE CLASES*
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+*METODO*
+<i id="enter" class="fa fa-plus-circle"></i> agrega un icono de +
+
+*lista.insertAdjacentHTML("beforeend", elemento) se usa para insertar y
+organizar los elementos del html 
+
+*input.value = '' string vacio significa q se borren  cualquier letra o numero
+
+*el metodo toggle agrega clases desde javascript
+
+*valores ternarios con IF
+const REALIZADO =  realizado ?check : uncheck
+si realizado es = a realizado then check;
+si realizado no es = a realizado then uncheck;
+
+LOCALSTORAGE = almacena informacion en el navegador aunque se cierre la session
+
+STRIGNIFY = convierte el lenguaje usado a JASON
+
+PARSE = proceso anverso q convierte el formato JASON a lenguaje usado
+
+FOREACH = recorre cada uno de los elementos y los manda a llamar
